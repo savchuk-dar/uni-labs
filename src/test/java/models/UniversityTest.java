@@ -1,7 +1,7 @@
 package models;
 
-import controllers.UniversityCreator;
-import org.example.JsonManager;
+import lab4.controllers.UniversityCreator;
+import lab4.main.JsonManager;
 import org.junit.Test;
 
 import java.io.IOException;
